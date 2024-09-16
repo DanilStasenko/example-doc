@@ -1,0 +1,21 @@
+---
+sidebar_position: 1
+---
+
+import React from 'react';
+import ReactPlayer from 'react-player';
+import { PAGES_SETTINGS } from '@site/link-constants.js';
+import Tooltip from '@site/src/components/Tooltip/Tooltip.jsx';
+import RefModal from '@site/src/components/modals/RefModal';
+
+
+# дефолтный текст 
+
+Пример тултипа <Tooltip tooltip='или экраны'>страницы</Tooltip> и управлять ими. 
+
+Пример видео
+<ReactPlayer playing controls url="/videos/pages/pages_additional_settings.webm" height="300" loop />
+
+Пример модалки
+<RefModal path={PAGES_SETTINGS}>Подробно блок Additional settings описан здесь.</RefModal>
+

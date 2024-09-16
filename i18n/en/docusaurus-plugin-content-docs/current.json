@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "ENGLISH Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.test default": {
+    "message": "ENGLISH test default",
+    "description": "The label for category test default in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.test default.link.generated-index.description": {
+    "message": "ENGLISH test default.",
+    "description": "The generated-index page description for category test default in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pages": {
+    "message": "ENGLISH Pages",
+    "description": "The label for category Pages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pages.link.generated-index.description": {
+    "message": "ENGLISH Модуль Pages в интерфейсе Headless CMS OneEntry позволяет управлять страницами, если это веб-приложение, или экранами, если это мобильное приложение. Для удобства в дальнейшем мы будем называть страницы или экраны просто страницами.",
+    "description": "The generated-index page description for category Pages in sidebar tutorialSidebar"
+  }
+}

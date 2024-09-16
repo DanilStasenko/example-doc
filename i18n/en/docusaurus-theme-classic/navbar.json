@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "ENGLISH OneEntry",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "ENGLISH My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "ENGLISH Documentation",
+    "description": "Navbar item with label Documentation"
+  }
+}
